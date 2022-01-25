@@ -1,0 +1,25 @@
+{
+  "name": "gulp__boilerplate",
+  "version": "1.0.0",
+  "description": "easy to html, css(sass), js, ts and framework",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansungsu/gulp__boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansungsu/gulp__boilerplate/issues"
+  },
+  "homepage": "https://github.com/hansungsu/gulp__boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.0"
+  }
+}
